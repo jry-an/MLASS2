@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b6f1c31-ba46-4096-83f3-a5c1252ebabb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture9_demo-1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment2-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MLASS2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLASS2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +42,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,11 +64,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588839083123</updated>
-      <workItem from="1588839116465" duration="132000" />
+      <workItem from="1588839116465" duration="318000" />
+      <workItem from="1588840393212" duration="98000" />
+      <workItem from="1589091459542" duration="1602000" />
+      <workItem from="1589093089122" duration="10124000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1589093104196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589093104196" />
   </component>
 </project>
