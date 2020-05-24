@@ -1,0 +1,23 @@
+Use "same" to keep image the same size
+
+0.01 learning rate causes validation data to jump
+
+
+17th Jul, 2014
+Julio David Buldain Pérez
+University of Zaragoza
+If you have enough data, you can try Early Stopping method: divide data in three data sets,
+ training, validation and evaluation.
+ Train each network along a sufficient number of epochs to see the training Mean Squared Error to be stuck in a minimum.
+  The training process uses training data-set and must be executed epoch by epoch,
+   in order to calculate the Mean Squared Error of the network in each epoch for the validation set.
+    The network for the epoch with the minimum validation MSE is selected for the evaluation process.
+This approach can be applied also with regularization methods and k-fold cross
+
+
+
+
+-----MODEL 1 SHAPES-----
+
+Image Augmentation is having a large effect on the accuracy
+Same because the image is 28x28 which is small

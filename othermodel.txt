@@ -1,0 +1,46 @@
+# model_cnn.add(Conv2D(32, (3, 3), padding='same',
+#                  input_shape=(3, 28, 28),
+#                  activation='relu'))
+# model_cnn.add(Conv2D(32, (3, 3), activation='relu'))
+# model_cnn.add(MaxPooling2D(pool_size=(2, 2)))
+# model_cnn.add(Dropout(0.2))
+#
+# model_cnn.add(Conv2D(64, (3, 3), padding='same',
+#                  activation='relu'))
+# model_cnn.add(Conv2D(64, (3, 3), activation='relu'))
+# model_cnn.add(MaxPooling2D(pool_size=(2, 2)))
+# model_cnn.add(Dropout(0.2))
+#
+# model_cnn.add(Conv2D(128, (3, 3), padding='same',
+#                  activation='relu'))
+# model_cnn.add(Conv2D(128, (3, 3), activation='relu'))
+# model_cnn.add(MaxPooling2D(pool_size=(2, 2)))
+# model_cnn.add(Dropout(0.2))
+#
+# model_cnn.add(Flatten())
+# model_cnn.add(Dense(512, activation='relu'))
+# model_cnn.add(Dropout(0.5))
+# model_cnn.add(Dense(5, activation='softmax'))
+
+        # model_cnn.add(Activation('relu'))
+        #
+        # model_cnn.add(Conv2D(32, (3, 3), activation='relu'))
+        # model_cnn.add(MaxPooling2D(pool_size=(2, 2)))
+        # model_cnn.add(Dropout(0.2))
+        #
+        # model_cnn.add(Conv2D(64, (3, 3), padding='same',
+        #                  activation='relu'))
+        # model_cnn.add(Conv2D(64, (3, 3), activation='relu'))
+        # model_cnn.add(MaxPooling2D(pool_size=(2, 2)))
+        # model_cnn.add(Dropout(0.2))
+        #
+        # model_cnn.add(Conv2D(128, (3, 3), padding='same',
+        #                  activation='relu'))
+        # model_cnn.add(Conv2D(128, (3, 3), activation='relu'))
+        # model_cnn.add(MaxPooling2D(pool_size=(2, 2)))
+        # model_cnn.add(Dropout(0.2))
+        #
+        # model_cnn.add(Flatten())
+        # model_cnn.add(Dense(512, activation='relu'))
+        # model_cnn.add(Dropout(0.5))
+        # model_cnn.add(Dense(5, activation='softmax'))

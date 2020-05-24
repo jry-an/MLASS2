@@ -2,19 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b6f1c31-ba46-4096-83f3-a5c1252ebabb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture9_demo-1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2-2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MLASS2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLASS2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/othermodel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toughts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture9_demo-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture9_demo-1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,7 +43,8 @@
   </component>
   <component name="JupyterTrust" id="2649bcd4-eb0c-47d0-9092-d2978a624097">
     <option name="files">
-      <option value="main.ipynb" />
+      <option value="model_1.ipynb" />
+      <option value="model_2.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1bZUPKD1xXz4WXQ1pg4h4w13WOV" />
@@ -43,15 +59,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
       <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -67,7 +83,20 @@
       <workItem from="1588839116465" duration="318000" />
       <workItem from="1588840393212" duration="98000" />
       <workItem from="1589091459542" duration="1602000" />
-      <workItem from="1589093089122" duration="10124000" />
+      <workItem from="1589093089122" duration="11368000" />
+      <workItem from="1589248878202" duration="82000" />
+      <workItem from="1589263630145" duration="2545000" />
+      <workItem from="1589267109182" duration="7780000" />
+      <workItem from="1589425284761" duration="33000" />
+      <workItem from="1589700102321" duration="1213000" />
+      <workItem from="1589701920730" duration="951000" />
+      <workItem from="1589773271844" duration="32111000" />
+      <workItem from="1589890583785" duration="1603000" />
+      <workItem from="1589892330295" duration="691000" />
+      <workItem from="1589893219294" duration="699000" />
+      <workItem from="1589959476501" duration="18776000" />
+      <workItem from="1590220064205" duration="20732000" />
+      <workItem from="1590292687501" duration="34775000" />
     </task>
     <servers />
   </component>
@@ -75,9 +104,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1589093104196">
+    <state x="1040" y="503" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589892160018">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="343" y="524" key="com.intellij.ide.util.TipDialog/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589093104196" />
+    <state x="1040" y="503" key="#com.intellij.fileTypes.FileTypeChooser/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589892160018" />
+    <state width="1239" height="325" key="GridCell.Tab.0.bottom" timestamp="1590330406933">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1239" height="325" key="GridCell.Tab.0.bottom/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406933" />
+    <state width="1397" height="191" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1589979173570" />
+    <state width="1239" height="325" key="GridCell.Tab.0.center" timestamp="1590330406933">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1239" height="325" key="GridCell.Tab.0.center/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406933" />
+    <state width="1397" height="191" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1589979173569" />
+    <state width="1239" height="325" key="GridCell.Tab.0.left" timestamp="1590330406929">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1239" height="325" key="GridCell.Tab.0.left/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406929" />
+    <state width="1397" height="191" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1589979173569" />
+    <state width="1239" height="325" key="GridCell.Tab.0.right" timestamp="1590330406933">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1239" height="325" key="GridCell.Tab.0.right/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406933" />
+    <state width="1397" height="191" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1589979173570" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1589790932115">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589790932115" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1589790932114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589790932114" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1589790932114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589790932114" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1589790932114">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589790932114" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1589780016385">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589780016385" />
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1590292694982">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590292694982" />
   </component>
 </project>
