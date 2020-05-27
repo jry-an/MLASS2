@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b6f1c31-ba46-4096-83f3-a5c1252ebabb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/square/asddscxz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/indesdsdfx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/istockphoto-907102402-1024x1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/sadfasf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/sadfsdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/sdfdsf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/crossing/sfssfsd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/cvcv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/laneend/istockphoto-1080445362-612x612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/laneend/istockphoto-1207672002-612x612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/parking/asddscxz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/parking/cvcv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/parking/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/parking/xcvxcv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/parking/xcvxv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/xcvxcv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/square/xcvxv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab11.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture9_demo-1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_try.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toughts" beforeDir="false" afterPath="$PROJECT_DIR$/toughts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +62,6 @@
   </component>
   <component name="JupyterTrust" id="2649bcd4-eb0c-47d0-9092-d2978a624097">
     <option name="files">
-      <option value="model_1.ipynb" />
       <option value="model_2.ipynb" />
     </option>
   </component>
@@ -50,16 +76,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/square" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
-      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\Test\square" />
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\Test\diamond\rightofway" />
       <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\Test\square\parking" />
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\Test\square\laneend" />
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\images\square\laneend" />
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\Test\square\crossing" />
+      <recent name="C:\Users\jackr\OneDrive\Documents\Uni\ML\MLASS2\Test\hex" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -88,7 +119,11 @@
       <workItem from="1589893219294" duration="699000" />
       <workItem from="1589959476501" duration="18776000" />
       <workItem from="1590220064205" duration="20732000" />
-      <workItem from="1590292687501" duration="34989000" />
+      <workItem from="1590292687501" duration="35008000" />
+      <workItem from="1590390623162" duration="25401000" />
+      <workItem from="1590463216791" duration="7476000" />
+      <workItem from="1590475893642" duration="26940000" />
+      <workItem from="1590544234626" duration="24311000" />
     </task>
     <servers />
   </component>
@@ -100,26 +135,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1040" y="503" key="#com.intellij.fileTypes.FileTypeChooser/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589892160018" />
-    <state width="1239" height="325" key="GridCell.Tab.0.bottom" timestamp="1590330406933">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1397" height="215" key="GridCell.Tab.0.bottom" timestamp="1590544573420">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1239" height="325" key="GridCell.Tab.0.bottom/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406933" />
-    <state width="1397" height="191" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1589979173570" />
-    <state width="1239" height="325" key="GridCell.Tab.0.center" timestamp="1590330406933">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1236" height="360" key="GridCell.Tab.0.bottom/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590499382662" />
+    <state width="1397" height="215" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1590544573420" />
+    <state width="1397" height="215" key="GridCell.Tab.0.center" timestamp="1590544573419">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1239" height="325" key="GridCell.Tab.0.center/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406933" />
-    <state width="1397" height="191" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1589979173569" />
-    <state width="1239" height="325" key="GridCell.Tab.0.left" timestamp="1590330406929">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1236" height="360" key="GridCell.Tab.0.center/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590499382661" />
+    <state width="1397" height="215" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1590544573419" />
+    <state width="1397" height="215" key="GridCell.Tab.0.left" timestamp="1590544573417">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1239" height="325" key="GridCell.Tab.0.left/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406929" />
-    <state width="1397" height="191" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1589979173569" />
-    <state width="1239" height="325" key="GridCell.Tab.0.right" timestamp="1590330406933">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1236" height="360" key="GridCell.Tab.0.left/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590499382661" />
+    <state width="1397" height="215" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1590544573417" />
+    <state width="1397" height="215" key="GridCell.Tab.0.right" timestamp="1590544573419">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1239" height="325" key="GridCell.Tab.0.right/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590330406933" />
-    <state width="1397" height="191" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1589979173570" />
+    <state width="1236" height="360" key="GridCell.Tab.0.right/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590499382661" />
+    <state width="1397" height="215" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1590544573419" />
     <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1589790932115">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -140,9 +175,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1589780016385" />
-    <state x="343" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1590292694982">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="193" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1590544237196">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="343" y="524" key="com.intellij.ide.util.TipDialog/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590292694982" />
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog/-2160.503.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1590475927463" />
+    <state x="193" y="344" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1590544237196" />
   </component>
 </project>

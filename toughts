@@ -15,9 +15,32 @@ If you have enough data, you can try Early Stopping method: divide data in three
 This approach can be applied also with regularization methods and k-fold cross
 
 
-
+General:
+Keep padding off of maxpool onto conv?
+No square traffic signs in german dataset
+Resizing images
+Image size being too small
 
 -----MODEL 1 SHAPES-----
-
+learning rate of 0.1 too big
+Batch Normalization decreased performance if used too much
+I don't want to put in too many features in conv2d, the image is small and only really needs edge detection
 Image Augmentation is having a large effect on the accuracy
 Same because the image is 28x28 which is small
+More featues doesn't improve performance much, whilst using increased computational power
+0.01 regulaizer too large
+Talk about padding on conv vs maxpool
+
+
+
+
+-----MODEL 2 TYPES------------ Aiming for 95 of vali - try 72BS
+kernel reg doesn't have much effect on eariler or later layers, but does when it isn't used at all
+dropout of 50% too much
+learning rate good
+0.0001 l2 reg doesn't do much
+x2 64 CONV maybe overfitting
+don't want to reduce the size too much, valuable information in those pixels
+
+
+TODO try more features
